@@ -16,13 +16,13 @@ namespace OrderByKioskWebAPI
     {
         DataBase db;
         Hashtable hashtable;
-        string serverUrl="http://192.168.3.50:5000";
+        string serverUrl="http://192.168.3.230:5000";
         
         [Route("Menu/add")]
         [HttpPost]
         public ActionResult<string> Add([FromForm] string fileName,[FromForm]string fileData,[FromForm] string cNo,[FromForm] string mName,[FromForm] string mPrice,[FromForm] string mImage,[FromForm] string DegreeYn,[FromForm] string SizeYn,[FromForm] string ShotYn,[FromForm] string CreamYn)
         {
-            string path = "/root/OrderByKioskWebAPI/wwwroot";  //System.IO.Directory.GetCurrentDirectory();
+            string path = "/root/Totaltest/OrderByKioskWebAPI/wwwroot";  //System.IO.Directory.GetCurrentDirectory();
             //path += "/root/OrderByKioskWebAPI/wwwroot";
 
             if (!Directory.Exists(path))
@@ -79,7 +79,7 @@ namespace OrderByKioskWebAPI
         [HttpPost]
         public ActionResult<string> MenuEdeit([FromForm] string fileName,[FromForm]string fileData,[FromForm] string mName,[FromForm] string NewmName,[FromForm] string mPrice,[FromForm] string DegreeYn,[FromForm] string SizeYn,[FromForm] string ShotYn,[FromForm] string CreamYn)
         {
-            string path = "/root/OrderByKioskWebAPI/wwwroot";	//System.IO.Directory.GetCurrentDirectory();
+            string path = "/root/Totaltest/OrderByKioskWebAPI/wwwroot";	//System.IO.Directory.GetCurrentDirectory();
            // path += "\\wwwroot";
 
             if (!Directory.Exists(path))

@@ -174,6 +174,7 @@ namespace OrderByKioskWebAPI
             db = new DataBase();
             ht = new Hashtable();
 
+            Console.WriteLine(" 주문 넘버 : {0}",oNo);
             ht.Add("_oNo", oNo);
             if (db.NonQuery("p_Staff_ComYn", ht))
             {
@@ -217,11 +218,13 @@ namespace OrderByKioskWebAPI
 
             while (sdr.Read())
             {
+                
                 if (sdr.GetValue(0) == System.DBNull.Value)
                 {
                     return 1;
-                }
-                return (int)sdr.GetValue(0)+1;
+                }         
+              
+                return Convert.ToInt32(sdr.GetValue(0)) + 1; 
             }
             db.ReaderClose(sdr);
             db.Close();
