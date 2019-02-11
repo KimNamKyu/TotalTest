@@ -17,11 +17,11 @@ namespace OrderByKioskWebAPI
 
         private bool Connection()
         {
-            string host = "gudi.kr";
-            string user = "gdc3";
-            string pwd = "gdc3";
+            string host = "192.168.3.146";
+            string user = "root";
+            string pwd = "1234";
             string db = "gdc3_3";
-            string port = "5002";
+            string port = "3306";
 
             // string host = "192.168.3.8";
             // string user = "root";
