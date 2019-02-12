@@ -54,3 +54,17 @@ C:\Users\GDC2\Desktop\Totaltest\OrderByKioskWebAPI\obj\Debug\netcoreapp2.1\Order
 C:\Users\GDC2\Desktop\Totaltest\OrderByKioskWebAPI\obj\Debug\netcoreapp2.1\OrderByKioskWebAPI.RazorTargetAssemblyInfo.cache
 C:\Users\GDC2\Desktop\Totaltest\OrderByKioskWebAPI\obj\Debug\netcoreapp2.1\OrderByKioskWebAPI.dll
 C:\Users\GDC2\Desktop\Totaltest\OrderByKioskWebAPI\obj\Debug\netcoreapp2.1\OrderByKioskWebAPI.pdb
+C:\Totaltest\OrderByKioskWebAPI\bin\Debug\netcoreapp2.1\OrderByKioskWebAPI.deps.json
+C:\Totaltest\OrderByKioskWebAPI\bin\Debug\netcoreapp2.1\OrderByKioskWebAPI.runtimeconfig.json
+C:\Totaltest\OrderByKioskWebAPI\bin\Debug\netcoreapp2.1\OrderByKioskWebAPI.runtimeconfig.dev.json
+C:\Totaltest\OrderByKioskWebAPI\bin\Debug\netcoreapp2.1\OrderByKioskWebAPI.dll
+C:\Totaltest\OrderByKioskWebAPI\bin\Debug\netcoreapp2.1\OrderByKioskWebAPI.pdb
+C:\Totaltest\OrderByKioskWebAPI\obj\Debug\netcoreapp2.1\OrderByKioskWebAPI.csprojAssemblyReference.cache
+C:\Totaltest\OrderByKioskWebAPI\obj\Debug\netcoreapp2.1\OrderByKioskWebAPI.csproj.CoreCompileInputs.cache
+C:\Totaltest\OrderByKioskWebAPI\obj\Debug\netcoreapp2.1\OrderByKioskWebAPI.RazorAssemblyInfo.cache
+C:\Totaltest\OrderByKioskWebAPI\obj\Debug\netcoreapp2.1\OrderByKioskWebAPI.RazorAssemblyInfo.cs
+C:\Totaltest\OrderByKioskWebAPI\obj\Debug\netcoreapp2.1\OrderByKioskWebAPI.AssemblyInfoInputs.cache
+C:\Totaltest\OrderByKioskWebAPI\obj\Debug\netcoreapp2.1\OrderByKioskWebAPI.AssemblyInfo.cs
+C:\Totaltest\OrderByKioskWebAPI\obj\Debug\netcoreapp2.1\OrderByKioskWebAPI.RazorTargetAssemblyInfo.cache
+C:\Totaltest\OrderByKioskWebAPI\obj\Debug\netcoreapp2.1\OrderByKioskWebAPI.dll
+C:\Totaltest\OrderByKioskWebAPI\obj\Debug\netcoreapp2.1\OrderByKioskWebAPI.pdb
